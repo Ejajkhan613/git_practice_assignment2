@@ -12,3 +12,4 @@ console.log("prime");
 } else {
   console.log("Not a Prime");
 }
+// Done
