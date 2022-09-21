@@ -1,14 +1,14 @@
 let count = 0;
-let prime = 17;
-for(let a=1; a<=prime; a++) {
+let Prime = 17;
+for(let a=1; a<=Prime; a++) {
 
-if(prime%a==0){
+if(Prime%a==0){
 count++;
 }
 }
 
 if(count == 2) {
-console.log("prime");
+console.log("Prime");
 } else {
   console.log("Not a Prime");
 }
